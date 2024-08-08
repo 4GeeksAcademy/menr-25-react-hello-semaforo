@@ -3,7 +3,6 @@ import React, { useState } from "react";
 const TrafficLight = () => {
 
     const [lightOn, setLightOn] = useState("");
-    const [activateAutomatic, setActivateAutomatic] = useState(false)
 
     const makeLightOn = (color) => {
         setLightOn(color);
