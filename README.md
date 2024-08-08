@@ -1,8 +1,6 @@
-# Hello World with React boilerplate
+# Traffic Light with React
 
-Start coding a react application
-
-> If you are working locally instead of using codespaces or gitpod, please follow [local installation steps](#local-installation-skip-if-you-are-working-on-codespaces-or-gitpod) and come back to this part of the readme.
+> In this exercise we have a traffic light made with html, css, js, bootstrap and react in which we can turn on the light by clicking on the one of our choice.
 
 ## How to start coding?
 
